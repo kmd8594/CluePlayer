@@ -1,0 +1,2 @@
+# Clue Player
+This project contains the file that represents a player of the game Clue. It contains both a naive and a smart way to play the game of Clue. This does not include the implementation of the Clue game itself, just the player of the game. 
